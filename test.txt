@@ -1,5 +1,5 @@
 git checkout -b branch1234567
 echo "1 \n2 \n3 \n4 \n5 \n6 \n7 " > numbers.txt
 git add numbers.txt
-git commit -m "text"
+git commit -a -m "text"
 git checkout master
